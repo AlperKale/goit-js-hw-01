@@ -10,5 +10,3 @@ console.log(makeTransaction(3, 1000));
 console.log(makeTransaction(10, 500));
 
 console.log("\n\n")
-
-alert("Task Sonuçlarını Görmek İçin  CTRL + SHIFT + J Baısınız")
