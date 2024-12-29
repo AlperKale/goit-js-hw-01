@@ -3,7 +3,7 @@ function makeTransaction(quantity, pricePerDroid) {
     return `You ordered ${quantity} droids worth ${totalPrice}`
 
 }
-console.log("********Alper KALE TASK-1********");
+console.log("******** Alper KALE TASK-1 ********");
 
 console.log(makeTransaction(5, 3000));
 console.log(makeTransaction(3, 1000));
